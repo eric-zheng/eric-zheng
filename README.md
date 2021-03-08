@@ -14,6 +14,11 @@ Our study reveals that single-accelerator training jobs can dominate the cluster
 Therefore, we propose Horizontally Fused Training Array (HFTA), a new DL framework extension that horizontally fuses models from repetitive jobs and trains them simultaneously on a shared accelerator.
 HFTA demonstrates great results on increasing hardware utilizations on GPU (V100, A100, RTX6000) and TPU (v3) on multiple benchmarks (DCGAN, PointNet, ResNet, MobileNet, Transformer, BERT). It achieves up to 15.1x higher training throughput compared to the traditional practice.
 
+### Hurricane in Rust
+
+Implement [Hurricane](https://www.eecg.utoronto.ca/~ashvin/publications/hurricane.pdf), a distributed computing system proposed in EuroSys'18, with the Rust programming language.
+
+See https://github.com/eric-zheng/hurricane-in-rust.
 
 <!--
 **eric-zheng/eric-zheng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
