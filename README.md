@@ -1,6 +1,6 @@
 # Eric Zheng's Profile
 
-I'm currently a Software Engineer interesting in Distributed Systems, Computer Architecture, and Machine Learning. I have domain expertise on Machine Learning and Blockchain. I code in C++, Python, and Rust.
+I'm currently a Software Engineer at Intel interesting in Distributed Systems, Computer Architecture, and Machine Learning. I have domain expertise on Machine Learning and Blockchain. I code in C++, Python, and Rust.
 
 ## Highlighted Projects
 
