@@ -8,7 +8,8 @@ I'm currently a Software Engineer at Intel interesting in Distributed Systems, C
 
 This work is accepted in MLSys'21 (Fourth Conference on Machine Learning and Systems).
 
-Link to the publication: https://arxiv.org/abs/2102.02344 ⚡
+- Link to the publication: https://arxiv.org/abs/2102.02344 ⚡
+- Link to the code: https://github.com/UofT-EcoSystem/hfta
 
 Our study reveals that single-accelerator training jobs can dominate the cluster-wide resource consumption when launched repetitively (e.g., for hyper-parameter tuning) while severely underutilizing the hardware.
 Therefore, we propose Horizontally Fused Training Array (HFTA), a new DL framework extension that horizontally fuses models from repetitive jobs and trains them simultaneously on a shared accelerator.
