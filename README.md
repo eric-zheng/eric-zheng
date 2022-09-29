@@ -1,14 +1,14 @@
 # Eric Zheng's Profile
 
-I'm currently a Software Engineer at Intel interesting in Distributed Systems, Computer Architecture, and Machine Learning. I have domain expertise on Machine Learning and Blockchain. I code in C++, Python, and Rust.
+I'm currently an MSCS student at CMU interesting in Distributed Systems, Computer Architecture, and Machine Learning Systems. I code in C++, Python, Go, and Rust.
 
 ## Highlighted Projects
 
-### Horizontally Fused Training Array ✨
+### Horizontally Fused Training Array
 
 This work is accepted in MLSys'21 (Fourth Conference on Machine Learning and Systems).
 
-- Link to the publication: https://arxiv.org/abs/2102.02344 ⚡
+- Link to the publication: https://arxiv.org/abs/2102.02344
 - Link to the code: https://github.com/UofT-EcoSystem/hfta
 - Link to the website: https://uoft-ecosystem.github.io/hfta/
 
